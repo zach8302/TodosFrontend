@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/video-chat-app/static/css/main.7ce14068.css",
-    "main.js": "/video-chat-app/static/js/main.4a4c9fef.js",
+    "main.js": "/video-chat-app/static/js/main.cacd3023.js",
     "index.html": "/video-chat-app/index.html",
     "main.7ce14068.css.map": "/video-chat-app/static/css/main.7ce14068.css.map",
-    "main.4a4c9fef.js.map": "/video-chat-app/static/js/main.4a4c9fef.js.map"
+    "main.cacd3023.js.map": "/video-chat-app/static/js/main.cacd3023.js.map"
   },
   "entrypoints": [
     "static/css/main.7ce14068.css",
-    "static/js/main.4a4c9fef.js"
+    "static/js/main.cacd3023.js"
   ]
 }
